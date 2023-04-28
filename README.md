@@ -1,13 +1,17 @@
 # Merenda-da-Escola.223
 Fila Da Cantina
 
-Descrição
+## Descrição
 
 A rede de ensino Goes Calmon,possui sérios problemas referentes a fila da Cantina,como falta de organização da fila,problemas com fracionamento de alimentos e falta de cadeiras para os alunos. Falta de organização essa que acarreta em muitos alunos perdem aula devido a extensa fila pra comer.
 
-Funcionalidades
+Listas de Funcionalidades
+registrar o numero de vezes que o aluno utilizou o sistema de organização 
+Cadastramento no app.
+sistema de grenciamento por parte das organizadores.
+Armazenar dados do educando no app
 
- A solução para este problema seria fazer um app com o respectivo login da conta enova, para haver uma organização destes problemas, sendo assim o app faria o papel de gerenciar informações para o banco de dados, estas informações seriam usadas para registrar a frequência que aluno pegou a comida ou seja a quantidade de prato que aquele aluno consumiu que seria no máximo um por pessoa
+ 
  
  Usabilidade da solução
  
@@ -15,7 +19,7 @@ Funcionalidades
  
  Desenvolvedores:
  
- Elifael
+ * Elifael
  Cristian
  Iago
  Wanderson
