@@ -5,11 +5,19 @@ Fila Da Cantina
 
 A rede de ensino Goes Calmon,possui sérios problemas referentes a fila da Cantina,como falta de organização da fila,problemas com fracionamento de alimentos e falta de cadeiras para os alunos. Falta de organização essa que acarreta em muitos alunos perdem aula devido a extensa fila pra comer.
 
-Listas de Funcionalidades
-registrar o numero de vezes que o aluno utilizou o sistema de organização 
-Cadastramento no app.
-sistema de grenciamento por parte das organizadores.
-Armazenar dados do educando no app
+Listas de Funcionalidade
+aplicativo com facil acesso
+Contabilizar quantidade "X" de estudantes que iram comer no exato dia,sendo assim, mais facil para combater o desperdicio
+login disponibilizado pelo governo para os funcionarios(conta enova)
+O aluno ira gerar um codigo "QR" como principal forma de resgate da comida; de maneira secundaria o aluno poderá disponibilizar a senha enova,que é distribuida para todos os alunos
+interface aluno:
+Verificar a caradapio da semana 
+fazer cadastro
+interface do funcionario:
+postar cardapio
+verificar quantidade dos alunos
+cadastro da escola
+
 
  
  
